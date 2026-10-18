@@ -3,9 +3,9 @@
 	"id": "swinganimator",
 	"version": "${version}",
 	"name": "Swing Animator",
-	"description": "Client-side mod that lets you speed up or slow down the arm swing animation. Purely visual - it does not change mining speed or attack speed. Requires Mod Menu for the config screen.",
+	"description": "Client-side mod that lets you change the arm swing animation.",
 	"authors": [
-		"You"
+		"terese_i_kassan"
 	],
 	"contact": {},
 	"license": "CC0-1.0",
